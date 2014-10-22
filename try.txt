@@ -1,7 +1,3 @@
-<<<<<<< HEAD
 i just want to try the function of github
 can i revert the changes?
 ok i have been ready
-=======
-i just want to try the function of github
->>>>>>> parent of 750d934... thenext
